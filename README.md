@@ -3,16 +3,16 @@
 
 ## Repository Links:
 
--[source repository](https://github.com/anushakalyankar/anusha"repository:Anusha")
--[hosted page](https://github.com/anushakalyankar/anusha/edit/master/README.md)
+- [source repository](https://github.com/anushakalyankar/anusha "repository:anusha")
+- [hosted page](https://github.com/anushakalyankar/anusha/edit/master/README.md)
 
 ## About
 This repository helped me to learn about github. 
 
 ## Repository Tools
 
--GitHub(https://github.com/github)
--notepadd++(https://notepad-plus-plus.org/)
+- GitHub(https://github.com/github)
+- notepadd++(https://notepad-plus-plus.org/)
 
 ##Recommended Resources
 
