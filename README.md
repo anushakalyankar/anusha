@@ -4,7 +4,7 @@
 ## Repository Links:
 
 - [source repository](https://github.com/anushakalyankar/anusha "repository: Anusha")
-- [hosted page](https://anushakalyankar/github.io/anusha/)
+- [hosted page](https://anushakalyankar.github.io/anusha/)
 
 ## About
 This repository will be used by me to learn and understand github. 
@@ -20,7 +20,7 @@ This repository will be used by me to learn and understand github.
 ## Recommended Resources
 
 - [Learning Web Design & Front-End Development](https://gist.github.com/nathansmith/1023581)
-- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Developer)
+- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Free Code Camp](https://www.freecodecamp.org/)
 - [Youtube](https://www.youtube.com/watch?v=HVsySz-h9r4)
