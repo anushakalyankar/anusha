@@ -3,24 +3,30 @@
 
 ## Repository Links:
 
-- [source repository](https://github.com/anushakalyankar/anusha "repository:anusha")
-- [hosted page](https://github.com/anushakalyankar/anusha/edit/master/README.md)
+- [source repository](https://github.com/anushakalyankar/anusha "repository: Anusha")
+- [hosted page](https://anushakalyankar/github.io/anusha/)
 
 ## About
-This repository helped me to learn about github. 
+This repository will be used by me to learn and understand github. 
 
-## Repository Tools
+## Recommended Tools
 
 - GitHub(https://github.com/github)
-- notepadd++(https://notepad-plus-plus.org/)
+- Notepadd++(https://notepad-plus-plus.org/)
+- Chocolatey : Package Installer
+- Google Chrome : Web Browser
+- Visual Code : Code Editor
 
-##Recommended Resources
+## Recommended Resources
 
-- Youtube(https://www.youtube.com/watch?v=HVsySz-h9r4)
-- GitHub guide(https://guides.github.com/activities/hello-world/)
-- GitHub page(https://github.com/)
+- [Learning Web Design & Front-End Development](https://gist.github.com/nathansmith/1023581)
+- [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Developer)
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Free Code Camp](https://www.freecodecamp.org/)
+- [Youtube](https://www.youtube.com/watch?v=HVsySz-h9r4)
 
 ## Contributor
 
-My name is Anusha Kalyankar. I am pursuing my masters degree in Applied Computer Science.
-![Hosted image](https://upload.wikimedia.org/wikipedia/commons/4/42/Shaqi_jrvej.jpg)
+My name is Anusha Kalyankar. I am pursuing masters degree in Applied Computer Science.
+Northwest Missouri State University
+![Hosted image](https://upload.wikimedia.org/wikipedia/commons/4/42/Shaqi_jrvej.jpg "Waterfall")
