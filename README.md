@@ -7,7 +7,7 @@
 - [hosted page](https://anushakalyankar.github.io/anusha/)
 
 ## About
-This repository will be used by me to learn and understand github. 
+This repository will be used to know about AJAX,JQuery and Qunit testing
 
 ## Recommended Tools
 
